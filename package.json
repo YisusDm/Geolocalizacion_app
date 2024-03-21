@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ionic-native/background-fetch": "^5.36.0"
+  }
+}
